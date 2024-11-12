@@ -10,4 +10,4 @@
 
 - 🍋历经初创公司，互联网公司，目前在金融行业!
 
-- 🪜本人自用VPN，[点击进入传送门](https://goooo.huajic.cfd/auth/register?code=d39H)，如果有需要的可先注册试用24小时，个人觉得还是很稳定的! 
+- 🪜本人自用VPN，[点击进入传送门](https://goooo.huajic.cfd/auth/register?code=d39H)，可先注册试用24小时，个人觉得还是很稳定!
