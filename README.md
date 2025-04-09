@@ -7,6 +7,8 @@
 - 🔭你好呀！💡
 
 - 🤔主攻iOS和Vue，在学习Android和鸿蒙!
+  
+  - 温馨提示: Vue是学习尚硅谷B站教学视频,感兴趣的可以看[repositories课件和视频地址](https://github.com/KennyHito?tab=repositories)
 
 - 🍋历经初创公司，互联网公司，目前在金融公司!
 
