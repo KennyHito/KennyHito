@@ -18,4 +18,4 @@
 
 - 🪜本人[自用VPN](https://goooo.huajic.cfd/auth/register?code=d39H)，可先注册试用24小时，个人觉得还是很稳定！
 
-- 👍🏻最后，对大家有帮助的项目，可以点个Star和Fork！
+- 👍🏻若某个项目对你有所帮助，希望可以点个Star和Fork！
