@@ -17,3 +17,5 @@
 - 🍋历经初创公司，互联网公司，目前在金融公司！
 
 - 🪜本人[自用VPN](https://goooo.huajic.cfd/auth/register?code=d39H)，可先注册试用24小时，个人觉得还是很稳定！
+
+- 👍🏻最后，对大家有帮助的项目，可以点个Star和Fork！
