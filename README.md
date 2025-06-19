@@ -1,10 +1,10 @@
-<h2 align="center">👋 Hey! I'm KennyHito. 🐘</h2>
+<h2 align="center">💡 Hey! I'm KennyHito. 🐘</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
 <br />
 
-- 你好呀！💡
+- ☕️你好呀！
 
 - 🦌本人历经初创公司，互联网公司，目前在金融公司！
 
