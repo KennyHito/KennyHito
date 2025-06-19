@@ -1,5 +1,4 @@
 <h2 align="center">💡 Hey! I'm KennyHito. 🐘</h2>
-<br />
 
 - ☕️你好呀!
 
