@@ -12,13 +12,9 @@
 
 - 🤔主攻iOS和Vue！
   
-- ❄️关于iOS
-  
-    iOS在工作中主要采用Objective-C开发语言，日常写了一些功能(封装)，若你有需要可自行查看，[StudyiOS](https://github.com/KennyHito/StudyiOS)。
+- 📱iOS在工作中主要采用Objective-C开发语言，日常写了一些功能(封装)，若你有需要可自行查看，[StudyiOS](https://github.com/KennyHito/StudyiOS)。
     
-- ❄️关于Vue
-
-    Vue是学习尚硅谷B站教学视频，感兴趣的可以看看禹神讲解。
+- 💻Vue是学习尚硅谷B站教学视频，感兴趣的可以看看禹神讲解。
   
     ①、尚硅谷前端入门html+css零基础教程，零基础前端开发html5+css3视频 [WebBasic](https://github.com/KennyHito/WebBasic)。
 
