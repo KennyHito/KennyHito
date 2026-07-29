@@ -4,7 +4,7 @@
 
 - 🦌本人历经初创公司，互联网公司，目前在金融公司！
 
-- 🌟搭建的个人网站，[点击前往网站](https://itdevelop.cloud/)。
+- 🌟搭建的个人网站，[点击前往网站](https://devnote.site/)。
 
 - 🍇本人[自用梯子🪜](https://go.huajic.com/?path=auth/register&code=d39H)，可先注册试用24小时，个人觉得还是很稳定！(可能网页会提示不安全,不用管,直接继续访问即可。)
 
