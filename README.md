@@ -2,8 +2,6 @@
 
 - ☕️ I'm KennyHito.
 
-- 🦌本人历经初创公司，互联网公司，目前在金融公司！
-
 - 🌟搭建的个人网站，[点击前往网站](https://devnote.site/)。
 
 - 🍇本人[自用梯子🪜](https://go.huajic.com/?path=auth/register&code=d39H)，可以注册试用24小时，整体使用体验比较稳定。（注：访问链接时可能会提示不安全，忽略提示直接继续访问即可）
